@@ -1,5 +1,5 @@
 const serverStatus = require('./data/statusService')
-const  config = require('./config/config')
+const config = require('./config/config')
 
 const Hapi = require('hapi');
 
@@ -13,7 +13,7 @@ const init = async () => {
     await server.start();
     serverStatus.getResponseCode.getResponseCode();
     setInterval(() => {
-        serverStatus.getResponseCode.getResponseCode(); 
+        serverStatus.getResponseCode.getResponseCode();
     }, 20000)
     console.log(`Server running at: ${server.info.uri}`);
 };

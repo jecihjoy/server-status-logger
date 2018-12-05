@@ -9,9 +9,11 @@ function getResponseCode() {
             let code = 305;
             if (code >= 200 && code <= 300) {
                 console.log('SUCCESS')
-            } else {
+            } else if (code > 300) {
                 sendMail(code);
-                console.log('ERROR: Server encountered an error while processing request. Server status code', code)
+                console.log('ERROR: Server encountered an error while processing requests. Server status code', code)
+            } else {
+                console.log('status code ' + code + 'less than 200');
             }
         })
 }

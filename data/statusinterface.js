@@ -13,18 +13,18 @@ function getServerStatus() {
         },
         json: true
     };
-    return new Promise(function(resolve, reject) {
+    return new Promise(function (resolve, reject) {
         rp(options)
-            .then(function(data) {
+            .then(function (data) {
                 resolve(data);
-            }).catch(function(err) {
+            }).catch(function (err) {
                 reject(err);
             });
     });
 }
 
 var getServerStatus = {
-    getServerStatus:getServerStatus,
+    getServerStatus: getServerStatus,
 }
 
 module.exports.getServerStatus = getServerStatus;
