@@ -1,0 +1,1300 @@
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"SUCCESS: Server responding well to requests","level":"info"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081037 f66sm18470992wmd.28 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081056 l197sm17768636wma.44 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081076 60sm38036135wrb.81 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081095 c9sm19741482wmh.27 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081116 n17sm10285237wmc.5 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081136 l37sm33827804wre.69 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081156 e19sm50565629wrc.25 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081176 x76sm29195472wmd.27 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081196 p4sm13636719wrs.74 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081216 5sm23949362wmw.8 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081236 j8sm20636448wmd.0 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081256 d8sm22061329wrw.70 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081277 t70sm18224639wmd.36 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081395 l202sm18157750wma.33 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081415 h16sm35656075wrb.62 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081435 w16sm32990930wrp.1 - gsmtp","level":"info"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081450 z17sm18961493wrv.2 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081470 e142sm38279113wmf.46 - gsmtp","level":"info"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081478 h12sm40478083wma.48 - gsmtp","level":"info"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081494 c14sm10758293wme.13 - gsmtp","level":"info"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081506 l202sm18168784wma.33 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081527 x186sm18724896wmg.41 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081547 y13sm15756009wme.2 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081566 b7sm20636122wrs.47 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081587 t131sm17197090wmt.1 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081606 k7sm24659426wrl.51 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081626 l197sm17830989wma.44 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081649 e19sm50609895wrc.25 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081668 202sm6726968wmt.8 - gsmtp","level":"info"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081784 z14sm15960923wrm.48 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081803 m4sm21606866wmi.3 - gsmtp","level":"info"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081816 p5sm12211061wmh.16 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081841 u204sm19221482wmu.30 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081859 c13sm48726081wrb.38 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081881 y34sm56324359wrd.68 - gsmtp","level":"info"}
+{"message":"Server running at: http://localhost:3100","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081898 o81sm19821310wmd.10 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081913 v19sm32482832wrd.46 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081933 x186sm18757830wmg.41 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081953 o4sm11591864wmh.40 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081974 202sm6755294wmt.8 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544081993 z17sm19000534wrv.2 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082013 t76sm29918286wme.33 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082034 z12sm25856141wrh.35 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082054 a12sm16982458wro.18 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082073 j129sm529204wmb.39 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082093 m6sm37058113wrv.24 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082114 x12sm22441872wrt.20 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082133 j76sm38069690wmf.26 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082153 a6sm8935774wmh.10 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082173 q3sm17093980wrn.84 - gsmtp","level":"info"}
+{"level":"error","message":"ERROR: Server encountered an error while processing requests. Server status code"}
+{"message":"Email sent: 250 2.0.0 OK 1544082196 o5sm2205820wmg.25 - gsmtp","level":"info"}
+{ message: 'Server running at: http://localhost:3100',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:45:56.181Z',
+  [Symbol(level)]: 'info' }
+{ level: 'error',
+  message: 'ERROR: Server encountered an error while processing requests. Server status code',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:45:57.649Z',
+  [Symbol(level)]: 'error',
+  [Symbol(splat)]: [ 305 ] }
+{ message: 'Email sent: 250 2.0.0 OK 1544082361 202sm6790661wmt.8 - gsmtp',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:46:02.194Z',
+  [Symbol(level)]: 'info' }
+{ level: 'error',
+  message: 'ERROR: Server encountered an error while processing requests. Server status code',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:46:16.578Z',
+  [Symbol(level)]: 'error',
+  [Symbol(splat)]: [ 305 ] }
+{ message: 'Email sent: 250 2.0.0 OK 1544082380 x20sm6077849wme.6 - gsmtp',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:46:20.068Z',
+  [Symbol(level)]: 'info' }
+undefined
+undefined
+undefined
+{ message: 'Server running at: http://localhost:3100',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:46:50.779Z',
+  [Symbol(level)]: 'info' }
+{ level: 'error',
+  message: 'ERROR: Server encountered an error while processing requests. Server status code',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:46:51.219Z',
+  [Symbol(level)]: 'error',
+  [Symbol(splat)]: [ 305 ] }
+{ message: 'Email sent: 250 2.0.0 OK 1544082413 v4sm11227707wme.6 - gsmtp',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:46:53.936Z',
+  [Symbol(level)]: 'info' }
+{ level: 'error',
+  message: 'ERROR: Server encountered an error while processing requests. Server status code',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:47:11.161Z',
+  [Symbol(level)]: 'error',
+  [Symbol(splat)]: [ 305 ] }
+{ message: 'Email sent: 250 2.0.0 OK 1544082433 t5sm16890366wmd.15 - gsmtp',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:47:14.079Z',
+  [Symbol(level)]: 'info' }
+{ message: 'Server running at: http://localhost:3100',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:47:23.059Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:47:23.521Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:47:43.420Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:48:03.431Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:48:23.411Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:48:43.414Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:49:03.495Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2018-12-06T07:49:23.419Z',
+  [Symbol(level)]: 'info' }
+{ message: 'Server running at: http://localhost:3100',
+  level: 'info',
+  label: undefined,
+  timestamp: '2018-12-06T07:49:57.508Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: undefined,
+  timestamp: '2018-12-06T07:49:57.869Z',
+  [Symbol(level)]: 'info' }
+{ message: 'Server running at: http://localhost:3100',
+  level: 'info',
+  label: 'ttp://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:50:10.573Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'ttp://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:50:10.929Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'ttp://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:50:31.104Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'ttp://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:50:50.927Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'ttp://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:51:10.919Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'ttp://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:51:30.930Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'ttp://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:51:50.922Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'ttp://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:52:30.919Z',
+  [Symbol(level)]: 'info' }
+{ message: 'Server running at: http://localhost:3100',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:53:28.249Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:53:28.618Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:53:48.631Z',
+  [Symbol(level)]: 'info' }
+{ message: 'Server running at: http://localhost:3100',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:53:54.794Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:53:56.173Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:54:15.194Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:54:35.139Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:54:55.140Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:55:15.143Z',
+  [Symbol(level)]: 'info' }
+{ message: 'Server running at: http://localhost:3100',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:55:50.671Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:55:51.040Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:56:11.015Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:56:31.016Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:56:51.013Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:57:11.146Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:57:31.017Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:57:51.022Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:58:11.015Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:58:31.021Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:58:51.043Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:59:11.026Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:59:31.023Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T07:59:51.031Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:00:11.025Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:00:31.031Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:00:51.099Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:01:11.027Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:01:31.054Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:01:51.033Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:02:11.038Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:02:31.029Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:02:51.023Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:03:14.373Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:03:31.026Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:03:51.028Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:04:11.046Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:04:31.046Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:04:51.064Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:05:11.040Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:05:31.041Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:05:51.291Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:06:11.068Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:06:31.065Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:06:51.047Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:07:11.045Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:07:31.098Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:07:51.076Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:08:11.050Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:08:31.053Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:08:51.043Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:09:11.044Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:09:34.057Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:09:51.039Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:10:11.048Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:10:31.241Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:10:51.138Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:11:11.055Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:11:31.106Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:11:51.222Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:12:11.048Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:12:31.057Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:12:51.111Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:13:11.051Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:13:31.075Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:13:51.063Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:14:11.104Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:14:31.058Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:14:51.056Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:15:11.681Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:15:31.286Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:15:51.271Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:16:11.064Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:16:31.066Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:16:51.179Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:17:11.065Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:17:31.189Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:17:51.056Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:18:11.082Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:18:31.070Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:18:51.116Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:19:11.070Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:19:31.071Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:19:51.074Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:20:11.291Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:20:31.133Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:20:51.516Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:21:11.110Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:21:31.083Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:21:51.083Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:22:11.084Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:22:31.234Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:22:51.875Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:23:11.187Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:23:31.091Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:23:51.094Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:24:11.088Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:24:31.093Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:24:51.096Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:25:11.086Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:25:31.086Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:25:51.084Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:26:11.090Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:26:31.094Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:26:51.092Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:27:11.099Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:27:31.101Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:27:51.094Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:28:11.095Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:28:31.098Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:28:51.101Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:29:11.099Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:29:31.103Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:29:51.115Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:30:11.246Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:30:31.109Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:30:51.115Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:31:11.103Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:31:31.198Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:31:51.163Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:32:11.113Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:32:31.119Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:32:51.123Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:33:11.112Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:33:31.118Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:33:51.119Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:34:11.151Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:34:31.126Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:34:51.121Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:35:11.127Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:35:31.121Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:35:51.123Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:36:14.125Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:36:31.579Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:36:51.121Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:37:11.128Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:37:31.135Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:37:51.135Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:38:11.123Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:38:31.142Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:38:51.672Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:39:11.192Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:39:31.139Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:39:51.141Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:40:11.161Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:40:31.134Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:40:51.139Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:41:11.136Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:41:31.135Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:41:51.164Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:42:11.133Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:42:31.141Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:42:51.133Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:43:11.137Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:43:31.131Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:43:51.134Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:44:11.147Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:44:31.147Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:44:51.154Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:45:11.769Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:45:31.139Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:45:51.145Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:46:11.208Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:46:31.141Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:46:51.142Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:47:11.147Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:47:31.147Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:47:51.145Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:48:11.143Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:48:31.147Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:48:51.153Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:49:11.149Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:49:31.146Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:49:51.159Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:50:11.155Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:50:31.351Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:50:51.152Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:51:11.163Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:51:31.179Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:51:51.714Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:52:11.166Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:52:31.153Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:52:51.158Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:53:11.177Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:53:31.155Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:53:51.162Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:54:11.162Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:54:31.188Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:54:51.161Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:55:11.157Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:55:31.160Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:55:51.174Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:56:11.234Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:56:31.186Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:56:51.178Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:57:11.170Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:57:31.176Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:57:51.706Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:58:11.171Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:58:31.176Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:58:51.178Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:59:11.173Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:59:31.182Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T08:59:51.183Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T09:00:11.172Z',
+  [Symbol(level)]: 'info' }
+{ message: 'SUCCESS: Server responding well to requests',
+  level: 'info',
+  label: 'http://api.openweathermap.org/data/2.5/weather',
+  timestamp: '2018-12-06T09:00:31.192Z',
+  [Symbol(level)]: 'info' }

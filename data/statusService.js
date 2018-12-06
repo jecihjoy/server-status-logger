@@ -1,19 +1,21 @@
 const data = require('./statusinterface')
 const nodemailer = require('nodemailer');
+const logger = require('../logger/logger');
 
 
 
 function getResponseCode() {
     data.getServerStatus.getServerStatus()
         .then((res) => {
-            let code = 305;
+            let code = 305; 
+            // let code = res.cod;
             if (code >= 200 && code <= 300) {
-                console.log('SUCCESS')
+                logger.info('SUCCESS: Server responding well to requests')
             } else if (code > 300) {
                 sendMail(code);
-                console.log('ERROR: Server encountered an error while processing requests. Server status code', code)
+                logger.error('ERROR: Server encountered an error while processing requests. Server status code', code)
             } else {
-                console.log('status code ' + code + 'less than 200');
+                logger.warn('status code ' + code + 'less than 200');
             }
         })
 }
@@ -36,9 +38,9 @@ function sendMail(code) {
 
     transporter.sendMail(mailOptions, function (error, info) {
         if (error) {
-            console.log(error);
+            logger.info(error);
         } else {
-            console.log('Email sent: ' + info.response);
+            logger.info('Email sent: ' + info.response);
         }
     });
 }

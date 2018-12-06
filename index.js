@@ -1,5 +1,6 @@
 const serverStatus = require('./data/statusService')
 const config = require('./config/config')
+const logger = require('./logger/logger');
 
 const Hapi = require('hapi');
 
@@ -15,7 +16,7 @@ const init = async () => {
     setInterval(() => {
         serverStatus.getResponseCode.getResponseCode();
     }, 20000)
-    console.log(`Server running at: ${server.info.uri}`);
+    logger.info(`Server running at: ${server.info.uri}`);
 };
 
 process.on('unhandledRejection', (err) => {
