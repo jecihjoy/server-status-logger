@@ -1,30 +1,24 @@
 const rp = require('request-promise');
+const config = require('../config/servers.json')
 
 function getServerStatus() {
+    console.log('called', config.servers[1].baseurl);
     var options = {
-        url: 'http://api.openweathermap.org/data/2.5/weather',
-        qs: {
-            q: 'eldoret',
-            APPID: '5e10f5ba642bc4e43318bec00b34c420'
-        },
-
-        headers: {
-            'User-Agent': 'Request-Promise'
-        },
+        url: config.servers[1].baseurl,
         json: true
     };
     return new Promise(function (resolve, reject) {
         rp(options)
             .then(function (data) {
+                console.log(data);
                 resolve(data);
             }).catch(function (err) {
+                console.log(err);
                 reject(err);
             });
     });
 }
 
-var getServerStatus = {
-    getServerStatus: getServerStatus,
-}
+
 
 module.exports.getServerStatus = getServerStatus;

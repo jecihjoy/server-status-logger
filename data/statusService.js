@@ -1,11 +1,14 @@
 const data = require('./statusinterface')
 const nodemailer = require('nodemailer');
 const logger = require('../logger/logger');
+const servers = require('../config/servers');
 
 
 
 function getResponseCode() {
-    data.getServerStatus.getServerStatus()
+    let serverArray = servers.servers;
+    for(var s in serverArray){
+        data.getServerStatus.getServerStatus(serverArray[0].baseurl, serverArray[0].param1, serverArray[0].apikey)
         .then((res) => {
             let code = 305; 
             // let code = res.cod;
@@ -18,6 +21,7 @@ function getResponseCode() {
                 logger.warn('status code ' + code + 'less than 200');
             }
         })
+    }
 }
 
 function sendMail(code) {

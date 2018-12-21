@@ -1,0 +1,18 @@
+{
+    "servers": [
+        {
+            "baseurl": "http://api.openweathermap.org/data/2.5/weather",
+            "param1": "eldoret",
+            "apikey": "5e10f5ba642bc4e43318bec00b34c420",
+            "serverlabel": "WeatherApi Server"
+        },
+        {
+            "baseurl": "https://ampath.nascop.org/api/hello"
+        },
+        {
+            "baseurl": "localhost",
+            "param1": "3100",
+            "param2": ""
+        }
+    ]
+}
